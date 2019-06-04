@@ -1,0 +1,5 @@
+com/winowicz/petclinic/model/Person.class
+com/winowicz/petclinic/model/Pet.class
+com/winowicz/petclinic/model/PetType.class
+com/winowicz/petclinic/model/Vet.class
+com/winowicz/petclinic/model/Owner.class

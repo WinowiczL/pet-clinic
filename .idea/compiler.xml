@@ -12,6 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="1" target="1.8" />
+      <module name="pet-clinic" target="1.8" />
       <module name="pet-clinic-data" target="1.8" />
       <module name="pet-clinic-web" target="1.8" />
     </bytecodeTargetLevel>
