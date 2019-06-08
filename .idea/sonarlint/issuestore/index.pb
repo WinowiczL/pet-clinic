@@ -48,3 +48,11 @@ G
 pet-clinic-data/pom.xml,7/1/715d2fa7251c17a4f23b982fe95ad97f73e073f5
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+
+Opet-clinic-data/src/main/java/com/winowicz/petclinic/services/OwnerService.java,9/5/9522ed46ce1e6f14e9dc18775d3cffd467a406c5
+}
+Mpet-clinic-data/src/main/java/com/winowicz/petclinic/services/PetService.java,f/1/f1d585624f6d646dc81a77462771a9da7976bfe4
+}
+Mpet-clinic-data/src/main/java/com/winowicz/petclinic/services/VetService.java,0/1/01fb30dcfdb1982e311323a1fd586a4725ee8b29
+z
+Jpet-clinic-data/src/main/java/com/winowicz/petclinic/model/BaseEntity.java,0/9/09775423aa40d88e3077d6b110e4da7392359ae9
